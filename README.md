@@ -41,7 +41,22 @@ This project is a full-stack, real-time sentiment analysis pipeline that streams
 - Fully interactive Looker dashboard with filters
 - Real-time data feed table + historical trends
 
----
+## Live Dashboard
+https://lookerstudio.google.com/reporting/48ea919b-a8e2-46f0-a322-623fc383d02b
 
-## 📂 Project Structure
+
+![alt text](images/Dashboard.jpg)
+
+
+## Project Snippets
+![alt text](images/image.png)
+
+![alt text](images/image/bigquery.png)
+
+![alt text](images/image/pubsub.png)
+
+![alt text](images/image/news-pull.png)
+
+
+
 
