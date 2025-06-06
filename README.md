@@ -28,7 +28,7 @@ This project is a full-stack, real-time sentiment analysis pipeline that streams
 6. → Deduplicated via view: `unique_sentiment_today`
 7. → Visualized in **Looker Studio**
 
-![Dashboard Flow](dashboard_preview.png)
+
 
 ---
 
