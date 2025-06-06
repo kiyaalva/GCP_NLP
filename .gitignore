@@ -1,0 +1,6 @@
+gcp-key.json
+__pycache__/
+.env
+config.json
+test.py 
+images/
